@@ -4,3 +4,4 @@ git commit
 git status
 git config
 git branch
+git log
