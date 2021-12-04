@@ -1,1 +1,0 @@
-We have learned so many git commands.
